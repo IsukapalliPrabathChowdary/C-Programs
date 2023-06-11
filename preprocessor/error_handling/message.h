@@ -1,0 +1,4 @@
+void msg()
+{
+    printf("welcome");
+}
